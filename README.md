@@ -19,4 +19,6 @@ Meu projeto se trata de um contador que pode também ser utilizado como demonstr
 
 <h2><img src="https://github.com/ViniciusCL1/Contador-com-Display-de-7-segmentos-4-D-gitos-/blob/master/1.png?raw=true" alt="1.png" /><img src="https://github.com/ViniciusCL1/Contador-com-Display-de-7-segmentos-4-D-gitos-/blob/master/2.png?raw=true" alt="2.png" /><img src="https://github.com/ViniciusCL1/Contador-com-Display-de-7-segmentos-4-D-gitos-/blob/master/3.png?raw=true" alt="3.png" /></h2>
 
+<h2>Especifica&ccedil;&otilde;es Display</h2>
 
+<p><img src="https://hackster.imgix.net/uploads/attachments/933276/Capture.JPG?auto=compress%2Cformat&amp;w=740&amp;h=555&amp;fit=max" /></p>
