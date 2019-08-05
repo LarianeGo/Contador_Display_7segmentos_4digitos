@@ -13,4 +13,8 @@ Regulador linear (7805)	  ×	1
 Capacitor 22 pF  ×	1	
 Capacitor 10 µF  ×	1	
 
+<h2>Diagramas de Montagem</h2>
+
+<h2><img src="https://github.com/ViniciusCL1/Contador-com-Display-de-7-segmentos-4-D-gitos-/blob/master/1.png?raw=true" alt="1.png" /><img src="https://github.com/ViniciusCL1/Contador-com-Display-de-7-segmentos-4-D-gitos-/blob/master/2.png?raw=true" alt="2.png" /><img src="https://github.com/ViniciusCL1/Contador-com-Display-de-7-segmentos-4-D-gitos-/blob/master/3.png?raw=true" alt="3.png" /></h2>
+
 
