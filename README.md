@@ -4,14 +4,16 @@ Meu projeto se trata de um contador que pode também ser utilizado como demonstr
 
 <h2>Instrumentos utilizados</h2>
 
-Arduino UNO & Genuino UNO  ×	1
-SparkFun 7-Segment Serial Display - Red  ×	1	
-5 mm LED: Red  ×	1	
-Resistor 100 ohm  ×	1		
-16 MHz Crystal  ×	1	
-Regulador linear (7805)	  ×	1	
-Capacitor 22 pF  ×	1	
-Capacitor 10 µF  ×	1	
+<ul style="list-style-type: disc;">
+<li>Arduino UNO &amp; Genuino UNO&nbsp; &times; 1</li>
+<li>Arduino UNO &amp; Genuino UNO&nbsp; &times; 1</li>
+<li>SparkFun 7-Segment Serial Display - Red&nbsp; &times; 1 5 mm LED: Red&nbsp; &times; 1</li>
+<li>Resistor 100 ohm&nbsp; &times; 1</li>
+<li>16 MHz Crystal&nbsp; &times; 1</li>
+<li>Regulador linear (7805) &nbsp; &times; 1</li>
+<li>Capacitor 22 pF&nbsp; &times; 1</li>
+<li>Capacitor 10 &micro;F&nbsp; &times; 1</li>
+</ul>	
 
 <h2>Diagramas de Montagem</h2>
 
